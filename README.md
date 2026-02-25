@@ -38,6 +38,6 @@
   
   
   <br>
-<p align="center">
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToqaMahmoud787&theme=github_dark)
-</p>
+
