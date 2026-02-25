@@ -1,13 +1,16 @@
 <h1 align="center">Hi, I'm Toqa Mahmoud Ibrahim</h1>
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1gSbnFV1Ew0acd9k1A1DjXkp7FS0UqPSq?usp=drive_link">
-    <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/>
-  </a> &nbsp;
-</p>
 
-### 📤 My Social Accounts
+ <p align="center">
+  <a href="https://drive.google.com/drive/folders/1gSbnFV1Ew0acd9k1A1DjXkp7FS0UqPSq?usp=drive_link">
+    <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+
+</p>
+  
+
+
+  ### 📤 My Social Accounts
 <p align="center">
   <a href="mailto:tokamahmoud7878@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/>
@@ -26,26 +29,15 @@
   </a> &nbsp;
 </p>
 
-<!-- Toggle Section -->
-<h3 id="skills-title" align="center" style="cursor:pointer;">🛠️ Top Technical Skills & Tools (Click to toggle)</h3>
+### 🛠️ Top Technical Skills & Tools
 
-<div id="skills-content" style="display:none; text-align:center;">
-  <p>
+  <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=ToqaMahmoud787&theme=highcontrast" height="105"/>
   </p>
-</div>
-
-<br>
+  
+  
+  <br>
 <p align="center">
-  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToqaMahmoud787&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToqaMahmoud787&theme=github_dark)
 </p>
-
-<script>
-  const title = document.getElementById("skills-title");
-  const content = document.getElementById("skills-content");
-
-  title.addEventListener("click", () => {
-    content.style.display = (content.style.display === "none") ? "block" : "none";
-  });
-</script>
