@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Toqa Mahmoud Ibrahim</h1>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
-<!--
-**ToqaMahmoud787/ToqaMahmoud787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <p align="center">
+  <a href="https://drive.google.com/drive/folders/1gSbnFV1Ew0acd9k1A1DjXkp7FS0UqPSq?usp=drive_link">
+    <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+  
+
+
+  ### 📤 My Social Accounts
+  <p align="left">
+    <a href="mailto:tokamahmoud7878@gmail.com">
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+    <a href="www.linkedin.com/in/toqa-mahmoud2">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+    <a href="https://www.facebook.com/share/1CYyMeHLrV/?mibextid=wwXIfr">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="50"/></a> &nbsp;
+
+<a href="https://www.instagram.com/tokamahmoud787?igsh=MWd0cHByaHJ6em1qeQ%3D%3D&utm_source=qr">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="50"/></a> &nbsp;
+  </p>
+
+### 🛠️ Top Technical Skills & Tools
+
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=ToqaMahmoud787&theme=highcontrast" height="105"/>
+  </p>
+  
+  
+  <br>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToqaMahmoud787&theme=github_dark)
+![Snake Animation](https://raw.githubusercontent.com/ToqaMahmoud787/ToqaMahmoud787/output/github-contribution-grid-snake-dark.svg)
